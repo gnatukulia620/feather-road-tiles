@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "App icon, one single glossy 3D thick wooden square plank tile with a carved golden arrow pointing right on its face, slightly tilted, centered, warm cream to honey radial gradient background, crisp, no text, no scene, no other objects"
+    },
+    {
+      "name": "bg_loader",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game loader background, dark evening barnyard, deep warm brown and walnut tones, soft lantern glow, heavy vignette, cinematic, no text, no UI elements"
+    },
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game menu background, sunlit cream farmyard with a soft wooden fence and warm straw, bright airy daylight, vibrant 3D render, no text, no UI elements"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game background, very soft blurred cream farmyard, low contrast for UI overlay, pale warm beige, no text, no UI elements"
+    },
+    {
+      "name": "bg_result",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game results background, warm cream to soft honey gradient with a gentle radial glow and faint straw texture, calm, no text, no UI elements"
+    },
+    {
+      "name": "sprite_hen_hero",
+      "type": "sprite",
+      "prompt": "One single cute cartoon hen, centered, glossy 3D render, warm cream and terracotta feathers, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_hen",
+      "type": "sprite",
+      "prompt": "One single small cute cartoon hen facing right, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_nest",
+      "type": "sprite",
+      "prompt": "One single cosy straw nest with two cream eggs, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_hen_badge",
+      "type": "sprite",
+      "prompt": "One single cartoon hen head badge, centered icon, glossy 3D render, warm cream and honey, isolated on plain white, no other objects"
+    },
+    {
+      "name": "texture_wood",
+      "type": "generic",
+      "prompt": "Seamless light oak wood grain texture, flat even lighting, warm honey brown, fine grain lines, no objects, no text"
+    }
+  ]
+}
