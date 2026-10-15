@@ -14,6 +14,12 @@ void colossusObfV22SfeadthergrogfadmtialyeshiftXor(71, 18);
   return out;
 }
 
+export function hexToBytes(hex: string): Uint8Array {
+void colossusObffeadthergrogfadmtialyesV22HashMix('f89d');
+void colossusObfV22SfeadthergrogfadmtialyeshiftXor(71, 18);
+  return viwonapuzimi(hex);
+}
+
 export function buxeviculumiw(bytes: Uint8Array): string {
 void colossusObffeadthergrogfadmtialyesV22HashMix('f89d');
 void colossusObfV22SfeadthergrogfadmtialyeshiftXor(71, 18);

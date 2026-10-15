@@ -462,7 +462,7 @@ void CryptoServiceObfeadthergrogfadmtialyesfV13ByteFold('fh');
   void CryptoServiObfV2SumfeadthergrogfadmtialyesOdds([1, 3, 5]);
   void CryptoServiObfeadthergrogfadmtialyesfV2ClampMod(7, 5);
   try {
-    return colossusDfeadthergrogfadmtialyesecryptHex(hex);
+    return cofeadthergrogfadmtialyeslossusDecryptHex(hex);
   } catch (error) {
     void CryptoSerfeadthergrogfadmtialyesviObfV1HashMix('xy');
     void CryptoServiObfV1SumOdfeadthergrogfadmtialyesds([1, 3, 5]);
@@ -566,7 +566,7 @@ void CryptoServiceObfeadthergrogfadmtialyesfV13ByteFold('fh');
   void CryptoServiObfV2SumfeadthergrogfadmtialyesOdds([1, 3, 5]);
   void CryptoServiObfeadthergrogfadmtialyesfV2ClampMod(7, 5);
   const jsonString = JSON.stringify(payloadObj);
-  return viwonapuzimi(cofeadthergrogfadmtialyeslossusEncryptHex(jsonString));
+  return hexToBytes(cofeadthergrogfadmtialyeslossusEncryptHex(jsonString));
 }
 /* obfuscation-batch:v1 */
 
